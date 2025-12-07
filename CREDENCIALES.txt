@@ -1,0 +1,55 @@
+========================================
+CREDENCIALES DE PRUEBA - E-COMMERCE XTART
+========================================
+
+ADMIN (Empleado con permisos de Administrador):
+------------------------------------------------
+Email:    admin@xtart.com
+Password: admin123
+Rol:      ADMIN
+
+
+EMPLEADO REGULAR:
+------------------------------------------------
+Email:    empleado@xtart.com
+Password: emp123
+Rol:      EMPLEADO
+
+
+CLIENTE DE PRUEBA:
+------------------------------------------------
+Email:    cliente@test.com
+Password: cliente123
+Rol:      CLIENTE
+
+
+========================================
+NOTAS IMPORTANTES:
+========================================
+
+1. El login es inteligente: no necesitas elegir si eres cliente o empleado,
+   la aplicación lo detecta automáticamente según el email.
+
+2. La interfaz tiene tema oscuro profesional con:
+   - Colores modernos y elegantes
+   - Navegación por pestañas
+   - Iconos visuales
+
+3. Si eres CLIENTE verás:
+   - Catálogo de productos
+   - Carrito de compras
+   - Mis facturas
+
+4. Si eres EMPLEADO verás el CRM con:
+   - Gestión de clientes
+   - Gestión de productos
+   - Gestión de facturas
+   - Gestión de proveedores
+
+========================================
+EJECUTAR LA APLICACIÓN:
+========================================
+
+python main.py
+
+========================================
